@@ -1,7 +1,7 @@
 # VMOF: Very Large-Scale Multiobjective Optimization Framework (VMOF)
 ## Paper: [Efficiently Tackling Million-Dimensional Multiobjective Problems: A Direction Sampling and Fine-Tuning Approach](https://ieeexplore.ieee.org/document/10504923)
 
-![image](https://github.com/HaokaiHong/VMOF/blob/main/Algorithms/Multi-objective%20optimization/framework.pdf)
+![image](Algorithms/Multi-objective%20optimization/framework.pdf)
 
 _Illustration of the proposed very large-scale multiobjective optimization framework (VMOF). 1. Initialize a set of directions and solutions and randomly partition them into several groups. 2. Sample and recommend a direction for each group. 3. Fine-tune directions for all solutions based on recommended directions. 4. Evolve each solution according to fine-tuned directions._
 ## Environment
